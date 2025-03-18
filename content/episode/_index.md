@@ -1,10 +1,10 @@
 +++
 date = '2025-03-18T09:36:07+07:00'
 draft = false
-title = 'Schedule'
+title = 'Episode List'
 +++
 
-[Home](/) | [Spotify](/...) | [Apple Music](/...) | [Lịch phát sóng](/schedule) | [Về bọn mình](/about)
+[Home](/) | [Episodes](/episode) | [Youtube](/..) | [Spotify](/...) | [Apple Music](/...) | 
 
 ### Schedule
 Do chúng mình vẫn còn công việc và các dự án cá nhân khác, lịch phát sóng của Engineer Talks sẽ là 2 tuần 1 tập nhé. 
