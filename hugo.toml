@@ -2,3 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'Engineer Talks - Podcast của Engineer cho Engineer'
 theme = 'maverick'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
