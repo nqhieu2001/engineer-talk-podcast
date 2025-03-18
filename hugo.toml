@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://nqhieu2001.github.io/engineer-talk-podcast/'
 languageCode = 'en-us'
 title = 'Engineer Talks - Podcast của Engineer cho Engineer'
 theme = 'maverick'

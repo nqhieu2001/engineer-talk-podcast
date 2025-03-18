@@ -1,6 +1,6 @@
 +++
 date = '2025-03-18T09:28:33+07:00'
-draft = true
+draft = false
 title = 'Engineer Talks - Podcast của Engineer cho Engineer'
 +++
 
