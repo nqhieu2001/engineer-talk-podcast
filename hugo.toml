@@ -1,8 +1,35 @@
 baseURL = 'https://podcastcuakysu.com'
 languageCode = 'en-us'
-title = 'Engineer Talks - Podcast của Engineer cho Engineer'
+title = 'Engineer Talks Podcast'
 theme = 'maverick'
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[menu]
+  [[menu.main]]
+    identifier = "episode"
+    name = "Các tập"
+    url = "/episode/"
+    weight = -500
+  [[menu.main]]
+    identifier = "youtube"
+    name = "Youtube"
+    url = "/posts/"
+    weight = -400
+  [[menu.main]]
+    identifier = "spotify"
+    name = "Spotify"
+    url = "/posts/"
+    weight = -300
+  [[menu.main]]
+    identifier = "apple"
+    name = "Apple"
+    url = "/posts/"
+    weight = -200
+  [[menu.main]]
+    identifier = "about"
+    name = "Về chúng tôi"
+    url = "/about/"
+    weight = -100
