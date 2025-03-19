@@ -1,10 +1,6 @@
 +++
-date = '2025-03-18T09:28:33+07:00'
-draft = false
 title = 'Engineer Talks - Podcast của kỹ sư'
 +++
-
-| [Home](/) | [Episodes](/episode) | [Youtube](/..) | [Spotify](/...) | [Apple Music](/...) | 
 
 # Engineer Talks - Podcast của kỹ sư
 ### To Insert Logo
@@ -12,6 +8,8 @@ title = 'Engineer Talks - Podcast của kỹ sư'
 ### Giới thiệu
 
 Hello mọi người!
+
+<img style="border-radius: 0;" class="avatar" src="/assets/podcast.png" alt="avatar">
 
 **Engineer Talks - Podcast của kỹ sư** là một dự án của 2 bọn mình, Cảnh(dataguystory) và Hiếu, với mong muốn được đóng góp và chia sẻ những kinh nghiệm của bọn mình với cộng đồng anh chị em Engineer của Việt Nam. 
 

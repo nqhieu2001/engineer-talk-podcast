@@ -7,6 +7,10 @@ theme = 'maverick'
   [caches.images]
     dir = ':cacheDir/images'
 
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+
 [menu]
   [[menu.main]]
     identifier = "episode"
