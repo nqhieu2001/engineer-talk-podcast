@@ -34,6 +34,6 @@ theme = 'maverick'
     weight = -200
   [[menu.main]]
     identifier = "about"
-    name = "Về chúng tôi"
+    name = "Hosts"
     url = "/about/"
     weight = -100
