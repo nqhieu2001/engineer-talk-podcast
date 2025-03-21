@@ -12,8 +12,8 @@
         {{ range .Pages }}
           <li>
             <a class="link" href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a>
-            <hr class="hr-list">
-            <div class="metadata-links">
+            <!-- <hr class="hr-list"> -->
+            <!-- <div class="metadata-links">
               {{ with .Params.youtube }}
                 <a href="{{ . }}" target="_blank">YouTube |</a>
               {{ end }}
@@ -23,7 +23,7 @@
               {{ with .Params.apple }}
                 <a href="{{ . }}" target="_blank">Apple</a>
               {{ end }}
-            </div>
+            </div> -->
           </li>
         {{ end }}
       </ul>
